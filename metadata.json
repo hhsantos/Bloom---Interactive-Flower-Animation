@@ -1,0 +1,5 @@
+{
+  "name": "Bloom - Interactive Flower Animation",
+  "description": "A beautiful, interactive 3D-style SVG animation of a flower blooming in a pot, built with React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": []
+}
